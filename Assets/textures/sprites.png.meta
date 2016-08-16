@@ -1,11 +1,11 @@
 fileFormatVersion: 2
 guid: a34b6f918f3dd4390b4646b4d7e34551
-timeCreated: 1471363081
+timeCreated: 1471365013
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
     21300000: back
-    21300002: sprites_1
+    21300002: ground
     21300004: sprites_2
     21300006: sprites_3
     21300008: sprites_4
@@ -124,7 +124,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: sprites_1
+      name: ground
       rect:
         serializedVersion: 2
         x: 146
