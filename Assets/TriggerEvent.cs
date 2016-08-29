@@ -7,9 +7,9 @@ public class TriggerEvent : MonoBehaviour
 
     void OnTriggerEnter2D (Collider2D other)
     {
-        var t = Triggered;
-        if (t != null)
-            Triggered (this);
-        Debug.Log ("Triggered");
+        // var t = Triggered;
+        // if (t != null)
+        //     Triggered (this);
+        // Debug.Log ("Triggered");
     }
 }
